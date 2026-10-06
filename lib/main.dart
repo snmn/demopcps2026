@@ -1,6 +1,5 @@
+import 'package:demopcpsseca/pages/dashboard.dart';
 import 'package:flutter/material.dart';
-import 'democlass1.dart';
-
 void main() {
   runApp(const MyApp());
 }
@@ -17,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: democlass1()
+      home: dashboard()
     );
   }
 }

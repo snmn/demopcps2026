@@ -1,16 +1,25 @@
-# demopcpsseca
+# Mobile Application Development (PCPS 2026)
 
-A new Flutter project.
+Welcome to the repository for the **Mobile Application Development (MAD)** course at PCPS College (2026 Batch). This repository contains demonstration code, lab exercises, and project materials built using **Flutter** and **Dart**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before running this application, make sure you have installed:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) (latest stable version)
+- [Dart SDK](https://dart.dev/get-dart)
+- [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/) with Flutter & Dart extensions
+- An Android Emulator, iOS Simulator, or a physical mobile device set to Developer Mode
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up and run the project locally on your machine:
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/snmn/madpcpsgit2026.git](https://github.com/snmn/madpcpsgit2026.git)
+cd madpcpsgit2026
